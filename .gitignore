@@ -1,0 +1,21 @@
+*.py[cod]
+__pycache__/
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Database
+*.sqlite3
+
+# Static & Media
+/staticfiles/
+/media/
+
+# IDE
+.vscode/
+.idea/
